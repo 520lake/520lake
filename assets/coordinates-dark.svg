@@ -50,7 +50,7 @@
 
   <text x="304" y="30" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8"
         letter-spacing="2.6" fill="#7a6e5e">CURSOR</text>
-  <g font-family="'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#c97b3a" letter-spacing="1.5">
+  <g font-family="'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#e8ddcc" letter-spacing="1.5">
     <text class="k k0" x="304" y="58">( 0, 0 )</text>
     <text class="k k1" x="304" y="58">( 1, 0 )</text>
     <text class="k k2" x="304" y="58">( 1, 1 )</text>
@@ -60,6 +60,6 @@
 
   <g class="cursor">
     <path d="M0 0 L0 16 L4.5 12 L7.4 18.8 L9.9 17.7 L7.0 11.1 L12 11.1 Z"
-          fill="#171310" stroke="#e8ddcc" stroke-width="1.2" stroke-linejoin="round"/>
+          fill="#f0e9dd" stroke="#161310" stroke-width="1" stroke-opacity="0.9" stroke-linejoin="round"/>
   </g>
 </svg>
