@@ -10,8 +10,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/coordinates-dark.svg">
-    <img src="assets/coordinates-light.svg" width="440" alt="坐标移动">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/coordinates-dark.svg?v=2">
+    <img src="assets/coordinates-light.svg?v=2" width="440" alt="坐标移动">
   </picture>
 </p>
 
